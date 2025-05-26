@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/05/20 09:22:31.000.075,=D:\User - Não Apagar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/05/20 09:49:51.000.174,=D:\User - Não Apagar\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/05/20 09:51:39.000.810,D:\User - Não Apagar\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\User - Não Apagar\Desktop\Pasta Busca dados bancos\UFrmPrincipal.pas</Transaction>
+    <Transaction>2025/05/20 09:51:39.000.810,D:\User - Não Apagar\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\User - Não Apagar\Desktop\Pasta Busca dados bancos\UFrmPrincipal.dfm</Transaction>
+    <Transaction>2025/05/20 09:52:33.000.534,D:\User - Não Apagar\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\User - Não Apagar\Desktop\Pasta Busca dados bancos\uFrmDados.dfm</Transaction>
+    <Transaction>2025/05/20 09:52:33.000.534,D:\User - Não Apagar\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\User - Não Apagar\Desktop\Pasta Busca dados bancos\uFrmDados.pas</Transaction>
+    <Transaction>2025/05/20 09:53:18.000.425,D:\User - Não Apagar\Documents\Embarcadero\Studio\Projects\Project2.dproj=D:\User - Não Apagar\Desktop\Pasta Busca dados bancos\ProjetoBancoDados.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
